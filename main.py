@@ -8,3 +8,5 @@ else:
     new=input("Are you Soham")
     if new=="yes":
         print("shit")
+    else:
+        print("Okay!")
