@@ -5,4 +5,6 @@ if ip==("Dhruvi" and "dhruvi"):
     print("Change your name please")
     print("Thanks")
 else:
-    print("Nice name")
+    new=input("Are you Soham")
+    if new=="yes":
+        print("shit")
