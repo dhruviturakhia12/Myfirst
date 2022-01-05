@@ -6,3 +6,4 @@ if ip==("Dhruvi" and "dhruvi"):
     print("Thanks")
 else:
     print("Nice name")
+    print("Bye")
