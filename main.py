@@ -6,6 +6,7 @@ if ip==("Dhruvi" and "dhruvi"):
     print("Thanks")
 else:
 <<<<<<< HEAD
+<<<<<<< HEAD
     print("Nice name")
     print("Bye")
 =======
@@ -15,3 +16,6 @@ else:
     else:
         print("Okay!")
 >>>>>>> new
+=======
+    print("Nice name")
+>>>>>>> parent of 04ab340... branch
