@@ -5,7 +5,7 @@ if ip==("Dhruvi" and "dhruvi"):
     print("Change your name please")
     print("Thanks")
 else:
-    new=input("Are you Soham")
+    new=input("Are you Turakhia's?")
     if new=="yes":
         print("shit")
     else:
@@ -15,3 +15,4 @@ print("This is dummy branch")
 print("---------------------")
 
 print("This is master branch")
+print("----------------------")
